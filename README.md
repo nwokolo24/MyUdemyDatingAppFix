@@ -5,3 +5,8 @@
 # -- If you are getting the "export 'Renderer' was not found in '@angular/core'" replace "ngx-gallery" folder in "node_module" with the "ngx-gallery" in this repo
 
 # -- If you are not able to import "NgxSpinnerModule" in app.module.ts because NgxSpinnerModule is not exported in ngx-spinner, go ahead and replace the "ngx-spinner" folder in "node_module" with the "ngx-spinner" folder in this repo and that should take care of the error.
+
+
+
+
+# This is how far I have gotten in the course, but I will keep updating this repo as I encounter errors just like you do. Thank you.
